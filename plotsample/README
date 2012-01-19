@@ -1,0 +1,9 @@
+Sample code for ALPS with matplotlib
+
+Usage:
+$ make
+$ make run
+$ python plot.py
+
+See the following URL for details of ALPS project.
+http://alps.comp-phys.org/mediawiki/index.php/Main_Page
