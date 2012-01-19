@@ -1,0 +1,13 @@
+Sample code for ALPS with MPI (trivial parallelization)
+
+Usage:
+$ make # build an executable
+
+$ make run  # run as serial job
+or
+$ make runmpi # run as parallel job
+
+$ make fig # output figure "test.png"
+
+See the following URL for details of ALPS project.
+http://alps.comp-phys.org/mediawiki/index.php/Main_Page
